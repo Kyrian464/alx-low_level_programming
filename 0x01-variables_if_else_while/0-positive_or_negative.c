@@ -1,7 +1,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-/* main -ENTRY POINT
+/*main -ENTRY POINT
  *
  * return: Always 0 (success)
  */
