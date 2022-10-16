@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar((ten % 10) + '0');
 	}
-	for (X = 'a'; X <= 'e'; X++)
+	for (X = 'a'; X <= 'f'; X++)
 	{
 		putchar(X);
 	}
